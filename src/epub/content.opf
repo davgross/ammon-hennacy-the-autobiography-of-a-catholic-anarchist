@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">ammon-hennacy/the-autobiography-of-a-catholic-anarchist</dc:identifier>
 		<dc:date>2017-01-07T15:00:00Z</dc:date>
-		<meta property="dcterms:modified">2017-01-07T15:00:00Z</meta>
+		<meta property="dcterms:modified">2017-01-07T23:13:20Z</meta>
 		<meta property="se:edition-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Picket Line Press</dc:publisher>
@@ -33,7 +33,7 @@
 		<meta property="se:subject">non-fiction</meta>
 		<dc:description id="description">Hennacy describes his life as a radical activist, his imprisonment, and his Catholic Worker activity.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Ammon Hennacy (1893&amp;ndash;1970) was best known for his &amp;ldquo;one man revolution&amp;rdquo; philosophy, in which he lived a life of radical pacifism and voluntary poverty in service to the poor and in opposition to capitalist and government oppression.&lt;/p&gt;
+			&lt;p&gt;Ammon Hennacy (1893–1970) was best known for his “one man revolution” philosophy, in which he lived a life of radical pacifism and voluntary poverty in service to the poor and in opposition to capitalist and government oppression.&lt;/p&gt;
                         &lt;p&gt;In this autobiography, first published in 1954, Hennacy describes his upbringing, his early radical activism, his imprisonment during the First World War for distributing anti-conscription propaganda, his work with the Catholic Worker movement, and his conversion to Catholicism.&lt;/p&gt;
                         &lt;p&gt;He also discusses his life as an itinerant farmworker, the difficulties of the Hopi Indians, and the debates between various radical personalities and philosophies of the time.&lt;/p&gt;
 		</meta>
